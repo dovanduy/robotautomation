@@ -1,0 +1,10 @@
+com.amy.testcase.speechInteractive.TestCase1_OpenApp
+com.amy.testcase.speechInteractive.TestCase2_OpenChinaUnicom
+com.amy.testcase.speechInteractive.TestCase3_OpenChinaTelecommunication
+com.amy.testcase.speechInteractive.TestCase4_OpenEconimicNews
+com.amy.testcase.speechInteractive.TestCase5_OpenEntertainmentNews
+com.amy.testcase.speechInteractive.TestCase6_OpenSportsNews
+com.amy.testcase.speechInteractive.TestCase7_OpenMilitaryNews
+com.amy.testcase.speechInteractive.TestCase8_OpenInternationalNews
+
+

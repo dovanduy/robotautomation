@@ -1,0 +1,196 @@
+Buildfile: C:\Users\peter\workspace\test\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at C:\android-sdk\android-sdk-windows
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 25.0.3
+     [echo] Resolving Build Target for Checker...
+[getuitarget] Project Target:   Android 6.0
+[getuitarget] API level:        23
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: C:\Users\peter\workspace\test\bin\classes
+      [dex] Converting compiled files and external libraries into C:\Users\peter\workspace\test\bin\classes.dex...
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/BasePages/PageAddFriends.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/BasePages/PageAppsList.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/BasePages/PageFriends.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/BasePages/PageHealthMedical.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/BasePages/PageLogin.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/BasePages/PageLogout.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/BasePages/PageMainMenu.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/BasePages/PageMultitaskManagement.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/BasePages/PageSetting.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/BasePages/PageUpgradeRelation.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/BasePages/PageWeather.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/BasePages/SettingPage.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/ReusableFunction/LoginActivity.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/ReusableFunction/LogoutActivity.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/mainMenu/CheckTest.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/mainMenu/LoginTest.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/mainMenu/LogoutTest.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/mainMenu/PreWifiTest.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/mainMenu/RegisterAccount.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/mainMenu/SettingLangTest.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/mainMenu/WifiTest.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/testcase/mainInterface/TestCase10_GoToFriendsListPage.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/testcase/mainInterface/TestCase11_GoToHealthMedicalPage.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/testcase/mainInterface/TestCase12_GoToAppsList.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/testcase/mainInterface/TestCase13_PressBack.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/testcase/mainInterface/TestCase14_GoToMainMenu.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/testcase/mainInterface/TestCase15_GoToMultiTaskManagement.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/testcase/mainInterface/TestCase1_Login.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/testcase/mainInterface/TestCase2_Logout.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/testcase/mainInterface/TestCase3_WiFi.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/testcase/mainInterface/TestCase4_RegisterAmyAccount.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/testcase/mainInterface/TestCase5_ChangePassword.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/testcase/mainInterface/TestCase6_ForgotPassword.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/testcase/mainInterface/TestCase7_GoToSettingPage.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/testcase/mainInterface/TestCase8_LocationAndWeather.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/testcase/mainInterface/TestCase9_DateAndTime.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/testcase/mainInterface/test.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/util/BasicTestCase.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/util/DateAndTime.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/util/PagesManager.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/util/UIAutomatorHelper.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/util/UiObjectHelper.class
+       [dx] 
+       [dx] PARSE ERROR:
+       [dx] unsupported class file version 52.0
+       [dx] ...while parsing com/amy/util/Weather.class
+       [dx] 43 errors; aborting

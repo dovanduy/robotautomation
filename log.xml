@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite hostname="LAPTOP-VG4RD2KQ" name="log" time="0.0" timestamp="2017-07-07T07:21:41">
+  <properties />
+  <testcase classname="com.amy.testcase.speechInteractive.TestCase1_OpenApp" name="testTestCase1" time="0.004">
+    <failure message="expected:&lt;true&gt; but was:&lt;false&gt;" type="junit.framework.AssertionFailedError">
+	at com.amy.testcase.speechInteractive.TestCase1_OpenApp.testTestCase1(TestCase1_OpenApp.java:32)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:249)
+</failure>
+  </testcase>
+  <testcase classname="com.amy.testcase.speechInteractive.TestCase2_OpenChinaUnicom" name="testTestCase1" time="0.0" />
+  <testcase classname="com.amy.testcase.speechInteractive.TestCase3_OpenChinaTelecommunication" name="testTestCase1" time="0.0" />
+  <testcase classname="com.amy.testcase.speechInteractive.TestCase4_OpenEconimicNews" name="testTestCase1" time="0.001" />
+  <testcase classname="com.amy.testcase.speechInteractive.TestCase5_OpenEntertainmentNews" name="testTestCase1" time="0.001" />
+  <testcase classname="com.amy.testcase.speechInteractive.TestCase6_OpenSportsNews" name="testTestCase1" time="0.001" />
+  <testcase classname="com.amy.testcase.speechInteractive.TestCase7_OpenMilitaryNews" name="testTestCase1" time="0.001" />
+  <testcase classname="com.amy.testcase.speechInteractive.TestCase8_OpenInternationalNews" name="testTestCase1" time="0.0" />
+</testsuite>

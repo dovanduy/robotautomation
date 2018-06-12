@@ -1,0 +1,297 @@
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=
+com.amy.testcase.speechInteractive.TestCase1_OpenApp:
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testTestCase1
+INSTRUMENTATION_STATUS: class=com.amy.testcase.speechInteractive.TestCase1_OpenApp
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 1
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=59833]
+Message Received
+close......
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=59371]
+Message Received
+close......
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=39427]
+Message Received
+close......
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=41910]
+Message Received
+close......
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=44443]
+Message Received
+close......
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=48916]
+Message Received
+close......
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=36071]
+Message Received
+close......
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=41308]
+Message Received
+close......
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=40139]
+Message Received
+close......
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=57435]
+Message Received
+close......
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=
+Failure in testTestCase1:
+junit.framework.AssertionFailedError: expected:<true> but was:<false>
+	at com.amy.testcase.speechInteractive.TestCase1_OpenApp.testTestCase1(TestCase1_OpenApp.java:32)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:249)
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testTestCase1
+INSTRUMENTATION_STATUS: class=com.amy.testcase.speechInteractive.TestCase1_OpenApp
+INSTRUMENTATION_STATUS: stack=junit.framework.AssertionFailedError: expected:<true> but was:<false>
+	at com.amy.testcase.speechInteractive.TestCase1_OpenApp.testTestCase1(TestCase1_OpenApp.java:32)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:249)
+
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: -2
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.F
+Time: 198.459
+
+FAILURES!!!
+Tests run: 1,  Failures: 1,  Errors: 0
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=
+com.amy.testcase.speechInteractive.TestCase2_OpenChinaUnicom:
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testTestCase1
+INSTRUMENTATION_STATUS: class=com.amy.testcase.speechInteractive.TestCase2_OpenChinaUnicom
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 1
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=46411]
+Message Received
+close......
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=38655]
+Message Received
+close......
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=56885]
+Message Received
+close......
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testTestCase1
+INSTRUMENTATION_STATUS: class=com.amy.testcase.speechInteractive.TestCase2_OpenChinaUnicom
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 50.972
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=
+com.amy.testcase.speechInteractive.TestCase3_OpenChinaTelecommunication:
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testTestCase1
+INSTRUMENTATION_STATUS: class=com.amy.testcase.speechInteractive.TestCase3_OpenChinaTelecommunication
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 1
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=45716]
+Message Received
+close......
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=34020]
+Message Received
+close......
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=51828]
+Message Received
+close......
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testTestCase1
+INSTRUMENTATION_STATUS: class=com.amy.testcase.speechInteractive.TestCase3_OpenChinaTelecommunication
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 62.972
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=
+com.amy.testcase.speechInteractive.TestCase4_OpenEconimicNews:
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testTestCase1
+INSTRUMENTATION_STATUS: class=com.amy.testcase.speechInteractive.TestCase4_OpenEconimicNews
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 1
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=38629]
+Message Received
+close......
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=54206]
+Message Received
+close......
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=51774]
+Message Received
+close......
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testTestCase1
+INSTRUMENTATION_STATUS: class=com.amy.testcase.speechInteractive.TestCase4_OpenEconimicNews
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 63.231
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=
+com.amy.testcase.speechInteractive.TestCase5_OpenEntertainmentNews:
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testTestCase1
+INSTRUMENTATION_STATUS: class=com.amy.testcase.speechInteractive.TestCase5_OpenEntertainmentNews
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 1
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=45379]
+Message Received
+close......
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=37241]
+Message Received
+close......
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=38702]
+Message Received
+close......
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testTestCase1
+INSTRUMENTATION_STATUS: class=com.amy.testcase.speechInteractive.TestCase5_OpenEntertainmentNews
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 63.554
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=
+com.amy.testcase.speechInteractive.TestCase6_OpenSportsNews:
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testTestCase1
+INSTRUMENTATION_STATUS: class=com.amy.testcase.speechInteractive.TestCase6_OpenSportsNews
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 1
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=44549]
+Message Received
+close......
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=38861]
+Message Received
+close......
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=39300]
+Message Received
+close......
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testTestCase1
+INSTRUMENTATION_STATUS: class=com.amy.testcase.speechInteractive.TestCase6_OpenSportsNews
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 63.317
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=
+com.amy.testcase.speechInteractive.TestCase7_OpenMilitaryNews:
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testTestCase1
+INSTRUMENTATION_STATUS: class=com.amy.testcase.speechInteractive.TestCase7_OpenMilitaryNews
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 1
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=51788]
+Message Received
+close......
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=58820]
+Message Received
+close......
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=44500]
+Message Received
+close......
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testTestCase1
+INSTRUMENTATION_STATUS: class=com.amy.testcase.speechInteractive.TestCase7_OpenMilitaryNews
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 63.75
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=
+com.amy.testcase.speechInteractive.TestCase8_OpenInternationalNews:
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testTestCase1
+INSTRUMENTATION_STATUS: class=com.amy.testcase.speechInteractive.TestCase8_OpenInternationalNews
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 1
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=59366]
+Message Received
+close......
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=55393]
+Message Received
+close......
+Socket=Socket[address=/192.168.1.177,port=8080,localPort=49649]
+Message Received
+close......
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testTestCase1
+INSTRUMENTATION_STATUS: class=com.amy.testcase.speechInteractive.TestCase8_OpenInternationalNews
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 63.738
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1
